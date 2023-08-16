@@ -3,6 +3,17 @@
 #include <TridentTD_LineNotify.h> //สำหรับการส่งข้อความใน LINE Notify
 
 #define LINE_TOKEN "xxxxxxxxxxxxxxxxxxxxxxxxxx" // ใส่ รหัส TOKEN ที่ได้มาจากข้างบน
+
+void Start_Feed()
+{
+  // เริ่มต้นให้อาหาร
+}
+
+void Stop_Feed()
+{
+  // หยุดให้อาหาร
+}
+
 void setup()
 {
   // put your setup code here, to run once:
